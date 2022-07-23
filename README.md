@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepakkumar
-- 👀 I’m interested in ... Machine Learning
+- 👀 I’m interested in ... Development
 - 🌱 I’m currently learning ... DSA 
-- 💞️ I’m looking to collaborate on ... ML projects
+- 💞️ I’m looking to collaborate on ... Real World Projects
 - 📫 How to reach me ...mail me at pandeydeepak.kumar1997@gmail.com
 
 <!---
